@@ -1,3 +1,12 @@
+<div align="center">
+  <p><strong>Netuvio Partner</strong></p>
+  <a href="https://netuvio.com" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/netuvio-logo.svg" alt="Netuvio" width="320">
+  </a>
+</div>
+
+---
+
 [![My website](https://img.shields.io/badge/My_Website-jakubsokol.cz-blue?style=for-the-badge)](https://jakubsokol.cz)
 
 ## Tech Stack
